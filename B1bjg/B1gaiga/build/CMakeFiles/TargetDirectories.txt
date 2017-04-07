@@ -1,0 +1,8 @@
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/install/local.dir
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/install/strip.dir
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/B1.dir
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/install.dir
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/exampleB1.dir
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/rebuild_cache.dir
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/edit_cache.dir
+/home/bangjie/B1bjg/B1gaiga/build/CMakeFiles/list_install_components.dir
